@@ -73,6 +73,6 @@ This project is licensed under the **MIT License**.
 
 ---
 ### 🔗 Links
-- Deployed App : 
+- Deployed App : [https://stockfuture.streamlit.app/](https://stockfuture.streamlit.app/)
 - Streamlit Documentation: [https://streamlit.io/](https://streamlit.io/)
 
